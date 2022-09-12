@@ -1,0 +1,6 @@
+[
+	{"nombre": "juego de tronos",                                   "anio": 1996, "precio":1500, "autor":"G. R. R. Martin", "id": 12, "cantidad":1, "img": "img/juego-de-tronos.jpg"},
+	{"nombre": "juego de tronos: choque de reyes",                  "anio": 1998, "precio":1800, "autor":"G. R. R. Martin", "id": 13, "cantidad":1, "img": "img/juego-de-tronos-choque-de-reyes.jpg"},
+	{"nombre": "juego de tronos: tormenta de espadas",              "anio": 2000, "precio":1950, "autor":"G. R. R. Martin", "id": 14, "cantidad":1, "img": "img/juego-de-tronos-tormenta-de-espadas.jpg"},
+	{"nombre": "juego de tronos: festín de cuervos",                "anio": 2005, "precio":2100, "autor":"G. R. R. Martin", "id": 15, "cantidad":1, "img": "img/juego-de-tronos-festin-de-cuervos.jpg"}
+]
